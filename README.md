@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @BatuhanGurdal
-- 👀 I’m interested in Python and C 
-- 🌱 I’m currently learning C 
-- 📫 How to reach me https://www.linkedin.com/in/batuhangurdal/
+Hi, I am Batuhan 
 
-<!---
-BatuhanGurdal/BatuhanGurdal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am electrical-electronics engineering student at Eskişehir Technical University. I am interested in the fields of electronic, autonomous driving systems and digital design. 
+
+I I know intermediate level C and beginner Python. 
+
+I am good at solving problem and communication with teammates. I am disciplined and open to learning new ideas. 
+
+
+  
+
+
+
